@@ -1,5 +1,7 @@
 # heic-decode
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 > Decode HEIC images to extract raw pixel data.
 
 ## Usage
