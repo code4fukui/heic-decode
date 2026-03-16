@@ -29,3 +29,7 @@ _デコーダは非同期のPromiseを返しますが、ほとんどの処理は
 * [heic-cli](https://github.com/catdad-experiments/heic-cli) - コマンドラインからHEIC/HEIFの画像をJPEGやPNGに変換する
 * [heic-convert](https://github.com/catdad-experiments/heic-convert) - HEIC/HEIF画像をJPEGやPNGに変換する
 * [libheif-js](https://github.com/catdad-experiments/libheif-js) - JavaScriptのライブラリとしてのlibheif
+
+## ライセンス
+
+MIT License — see [LICENSE](LICENSE).
