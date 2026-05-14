@@ -1,5 +1,7 @@
 # heic-decode
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 > Decode HEIC images to extract raw pixel data.
 
 ## Usage
@@ -29,3 +31,7 @@ _Note that while the decoder returns a Promise, it does the majority of the work
 * [heic-cli](https://github.com/catdad-experiments/heic-cli) - convert heic/heif images to jpeg or png from the command line
 * [heic-convert](https://github.com/catdad-experiments/heic-convert) - convert heic/heif images to jpeg and png
 * [libheif-js](https://github.com/catdad-experiments/libheif-js) - libheif as a pure-javascript npm module
+
+## License
+
+MIT License — see [LICENSE](LICENSE).
